@@ -40,7 +40,7 @@ We propose a prediction model, named pLM4PEP, to predict plant miPEPs. In this f
 
 Python：
 
-- `Python` >= 3.11
+- `Python` >= 3.8
   
   - Download `pLM4PEP`to your computer
   
